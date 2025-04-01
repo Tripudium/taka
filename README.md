@@ -1,2 +1,4 @@
-# taka
-A fast Hawkes process library
+# 鷹 Taka
+
+A fast library for estimating Hawkes processes
+
